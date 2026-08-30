@@ -1,0 +1,4 @@
+streamlit # Version not found in environment, please specify manually if needed
+pandas==2.2.3
+scikit-learn==1.6.1
+joblib==1.5.3
